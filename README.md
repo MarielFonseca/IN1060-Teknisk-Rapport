@@ -1,6 +1,7 @@
 # Innovi5 - Teknisk Rapport
 Lenke for video
-\nLenke for prosjektside
+
+Lenke for prosjektside
 
 ## Hvordan fungerer løsningen?
 blah blah blah

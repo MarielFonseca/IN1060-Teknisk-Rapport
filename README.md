@@ -1,3 +1,16 @@
 # Innovi5 - Teknisk Rapport
-Kode for Arduino-løsningen 
+Lenke for video
+Lenke for prosjektside
+
+## Hvordan fungerer løsningen?
+blah blah blah
+
+___________________________________________________________
+
+## Kretstegning, kretsdiagram og komponenter
+blah blah blah
+
+___________________________________________________________
+
+## Funksjoner
 !

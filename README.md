@@ -1,3 +1,3 @@
-# Kode-IN1060
+# Innovi5 - Teknisk Rapport
 Kode for Arduino-løsningen 
 !

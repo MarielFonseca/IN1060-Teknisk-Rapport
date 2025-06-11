@@ -3,15 +3,4 @@
 
 [Lenke til prosjektside](https://www.uio.no/studier/emner/matnat/ifi/IN1060/v25/prosjektgrupper/Innovi5/)
 
-## Hvordan fungerer løsningen?
-blah blah blah
-
 ___________________________________________________________
-
-## Kretstegning, kretsdiagram og komponenter
-blah blah blah
-
-___________________________________________________________
-
-## Funksjoner
-!
